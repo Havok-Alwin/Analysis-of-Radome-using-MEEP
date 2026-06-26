@@ -43,3 +43,21 @@ https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/ *(Best site to le
 ### MindMap :
 
 ![MindMap](Mind_Map.png)
+
+
+### ***Notes :***
+
+ MEEP tutorial : https://meep.readthedocs.io/en/latest/Python_Tutorials/Basics/
+ 
+ Understanding syntaxes of geomentry in meep : https://meep.readthedocs.io/en/latest/Python_User_Interface/#geometricobject
+ 
+ Why there are no constants in meep : https://meep.readthedocs.io/en/latest/Introduction/#units-in-meep
+ 
+Why maxwell equations are scale invariant : https://en.wikipedia.org/wiki/Scale_invariance#Classical_electromagnetism <br>
+<br>
+*Scale invariance : <br>
+In Physics , Math and stats **scale invariance** is a feature of objects or laws that do not change if scales of length, energy, or other variables, are multiplied by a common factor, and thus represent a universality.*
+
+ 
+ 
+ MEEP Basics (Modeling) : https://www.youtube.com/watch?v=d6eIUb0Xa5U&t=13s
